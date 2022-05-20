@@ -27,8 +27,11 @@ public:
 	void Update();
 	virtual void Draw();
 
-	const VECTOR& GetPos(){
-		return pos;
+	VECTOR GetMouseVector();
+	void UpdateCueParam();
+
+	const VECTOR* GetPos(){
+		return &pos;
 	}
 
 private:

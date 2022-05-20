@@ -12,6 +12,7 @@
     <ClInclude Include="Cue.h" />
     <ClInclude Include="Table.h" />
     <ClInclude Include="OtherBalls.h" />
+    <ClInclude Include="ObjectManager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GameScene.cpp" />
@@ -23,5 +24,6 @@
     <ClCompile Include="Cue.cpp" />
     <ClCompile Include="Table.cpp" />
     <ClCompile Include="OtherBalls.cpp" />
+    <ClCompile Include="ObjectManager.cpp" />
   </ItemGroup>
 </Project>

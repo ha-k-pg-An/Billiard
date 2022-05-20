@@ -21,8 +21,8 @@ public:
 	{
 	}
 
-	void Init();
-	void GetFrontVector();
+	VECTOR GetMousePos();
+	void GetCuePos();
 
 	void Update();
 	virtual void Draw();

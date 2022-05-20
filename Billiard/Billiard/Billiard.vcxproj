@@ -156,6 +156,7 @@
     <ClInclude Include="Cue.h" />
     <ClInclude Include="GameScene.h" />
     <ClInclude Include="ObjectBase.h" />
+    <ClInclude Include="ObjectManager.h" />
     <ClInclude Include="OtherBalls.h" />
     <ClInclude Include="ResultScene.h" />
     <ClInclude Include="SceneBase.h" />
@@ -168,6 +169,7 @@
     <ClCompile Include="Cue.cpp" />
     <ClCompile Include="GameScene.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ObjectManager.cpp" />
     <ClCompile Include="OtherBalls.cpp" />
     <ClCompile Include="ResultScene.cpp" />
     <ClCompile Include="SceneManager.cpp" />
